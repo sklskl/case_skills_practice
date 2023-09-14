@@ -1,6 +1,11 @@
 package com.skl.day08;
 
 public class CustomerTest {
+    public static void main(String[] args) {
+        Customer c = new Customer();
+        int [] arr =new int[]{3,2,5,22,66,33,9};
+        c.sort(arr);
+    }
 }
 
 class Customer {
@@ -19,5 +24,8 @@ class Customer {
     public String  nation(String nation){
         String info = "我的国籍："+nation;
         return info;
+    }
+    public void sort(int [] arr){
+
     }
 }
