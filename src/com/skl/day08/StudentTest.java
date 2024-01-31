@@ -2,9 +2,9 @@ package com.skl.day08;
 
 public class StudentTest {
     public static void main(String[] args) {
-        Student[] s = new Student[20];
+        Student1[] s = new Student1[20];
         for (int i = 0; i < s.length; i++) {
-            s[i] = new Student();
+            s[i] = new Student1();
             s[i].number = i+1;
             s[i].state = (int)(Math.random()*(6-1+1)+1);
             s[i].score = (int)(Math.random()*(100-0+1));
@@ -28,7 +28,7 @@ public class StudentTest {
         for (int i = 0; i < s.length-1; i++) {
             for (int j = 0;j<s.length-1-i;j++)
             if (s[j].score >s[j+1].score ){
-                Student temp = s[j];
+                Student1 temp = s[j];
                 s[j] = s[j+1];
                 s[j+1] = temp;
             }
@@ -43,7 +43,7 @@ public class StudentTest {
 
     }
 }
-class Student {
+class Student1 {
     int number;//学号
     int score;//成绩
     int state;//年纪
