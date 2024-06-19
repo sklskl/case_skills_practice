@@ -1,4 +1,4 @@
-package src.com.skl.daye02;
+package src.com.skl.day02;
 
 import java.util.Random;
 
