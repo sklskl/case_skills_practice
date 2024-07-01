@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="LeetcodeEditor">
+    <option name="projectConfig">
+      <map>
+        <entry key="$PROJECT_DIR$/../Documents/leetcode/leetcode/editor/cn/P109_ConvertSortedListToBinarySearchTree .java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../Documents/leetcode/leetcode/editor/cn/doc/content/P109_ConvertSortedListToBinarySearchTree .md" />
+              <option name="frontendQuestionId" value="leetcode.cn109" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/../Documents/leetcode/leetcode/editor/cn/P109_ConvertSortedListToBinarySearchTree .java" />
+              <option name="titleSlug" value="convert-sorted-list-to-binary-search-tree" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Documents/leetcode/leetcode/editor/cn/[2742]给墙壁刷油漆.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../Documents/leetcode/leetcode/editor/cn/doc/content/[2742]给墙壁刷油漆.md" />
+              <option name="frontendQuestionId" value="leetcode.cn2742" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/../Documents/leetcode/leetcode/editor/cn/[2742]给墙壁刷油漆.java" />
+              <option name="titleSlug" value="painting-the-walls" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Documents/leetcode/leetcode/editor/cn/[29]两数相除.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../Documents/leetcode/leetcode/editor/cn/doc/content/[29]两数相除.md" />
+              <option name="frontendQuestionId" value="leetcode.cn29" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/../Documents/leetcode/leetcode/editor/cn/[29]两数相除.java" />
+              <option name="titleSlug" value="divide-two-integers" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
