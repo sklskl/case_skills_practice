@@ -1,0 +1,29 @@
+一、
+1、String的深入认识
+    1、1
+      public final class String
+      implements java.io.Serializable, Comparable<String>, CharSequence
+      不可被继承，可序列化，
+      Serializable：凡时实现本借口的类的对象就可以通过网络或本地流进行数据传输
+      Comparable：凡是实现此接口的类，可以比较大小
+      CharSequence：实现字符序列
+    1、2
+         private final char value[];//存储字符串数据的容器
+         final：指定value数组一旦初始化，地址不可变
+2、string的常用方法
+3、StringBuilder与Stringbuffer
+
+二、
+4、System与Date
+5、simpleDateForm的使用
+6、calder
+7、jdk8新特性
+
+三、
+8、比较器compareable
+9、比较器comparator
+四
+10、其他类的使用
+五、
+11、随堂复习
+
