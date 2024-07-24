@@ -14,13 +14,24 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../Documents/leetcode/leetcode/editor/cn/P2742_PaintingTheWalls .java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../Documents/leetcode/leetcode/editor/cn/doc/content/P2742_PaintingTheWalls .md" />
+              <option name="frontendQuestionId" value="leetcode.cn2742" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/../Documents/leetcode/leetcode/editor/cn/P2742_PaintingTheWalls .java" />
+              <option name="titleSlug" value="painting-the-walls" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../Documents/leetcode/leetcode/editor/cn/[2742]给墙壁刷油漆.java">
           <value>
             <LeetcodeEditor>
-              <option name="contentPath" value="$PROJECT_DIR$/../Documents/leetcode/leetcode/editor/cn/doc/content/[2742]给墙壁刷油漆.md" />
+              <option name="contentPath" value="$PROJECT_DIR$/../Documents/leetcode/leetcode/editor/cn/doc/content/P2742_PaintingTheWalls .md" />
               <option name="frontendQuestionId" value="leetcode.cn2742" />
               <option name="host" value="leetcode.cn" />
-              <option name="path" value="$PROJECT_DIR$/../Documents/leetcode/leetcode/editor/cn/[2742]给墙壁刷油漆.java" />
+              <option name="path" value="$PROJECT_DIR$/../Documents/leetcode/leetcode/editor/cn/P2742_PaintingTheWalls .java" />
               <option name="titleSlug" value="painting-the-walls" />
             </LeetcodeEditor>
           </value>

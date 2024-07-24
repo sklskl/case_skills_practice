@@ -1,0 +1,5 @@
+线程的构造器
+public Thread()
+public Thread(Stirng name)
+public Thread(Runnable target)指定创建线程的目标对象，实现runnable接口中的run方法
+public Thread(RUnnable target,String name)
