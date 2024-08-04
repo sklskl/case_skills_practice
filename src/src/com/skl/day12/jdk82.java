@@ -12,7 +12,7 @@ import java.util.Date;
  * @author: skl
  * @create: 2024-07-18 20:53
  */
-public class jdk8 {
+public class jdk82 {
     @Test
     public void test1(){
         Date date = new Date();
