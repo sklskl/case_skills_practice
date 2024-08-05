@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="case_skills_practice:Web exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/case_skills_practice_Web_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="case_skills_practice/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="case_skills_practice" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="module" name="JUnit4" module-name="case_skills_practice" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
