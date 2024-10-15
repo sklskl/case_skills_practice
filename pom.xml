@@ -3,7 +3,10 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.skl</groupId>
     <artifactId>testproject</artifactId>
-    <packaging>jar</packaging>
+    <packaging>pom</packaging>
+    <modules>
+        <module>mvn_practice</module>
+    </modules>
     <version>1.0</version>
     <name>case_skills_practice</name>
     <url>http://maven.apache.org</url>
@@ -14,11 +17,19 @@
             <version>3.8.1</version>
             <scope>test</scope>
         </dependency>
+        <!-- https://mvnrepository.com/artifact/org.projectlombok/lombok -->
+        <dependency>
+            <groupId>org.projectlombok</groupId>
+            <artifactId>lombok</artifactId>
+            <version>1.18.24</version>
+            <scope>provided</scope>
+        </dependency>
+
 
     </dependencies>
-<properties>
-    <manager.compiler.source>17</manager.compiler.source>
-    <manager.compiler.target>17</manager.compiler.target>
-    <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-</properties>
+    <properties>
+        <manager.compiler.source>17</manager.compiler.source>
+        <manager.compiler.target>17</manager.compiler.target>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+    </properties>
 </project>

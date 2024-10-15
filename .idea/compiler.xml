@@ -6,7 +6,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="case_skills_practice" />
+        <module name="mvn_practice" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="8" />
